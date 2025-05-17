@@ -54,7 +54,7 @@ To down the network:-
 
     ./network.sh down
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/a555212dfe5109d74f0418b65bedd473601d83a0/terminal_stuff.jpg)
 
 To install IPFS:-
 
