@@ -166,7 +166,7 @@ Here’s an intermediate-level Solidity smart contract for a crowdfunding platfo
 
 CODE:-
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/30a4f1340d36c8615a8f12a0199978c8736018d3/code%20.png)
 
 Compiling the code:-
 
