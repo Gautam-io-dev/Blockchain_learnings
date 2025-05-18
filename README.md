@@ -150,7 +150,8 @@ We write our smart contract in the solidity language .
 
 To use this Language I have used the Remix ide website where I can deploy my contract for free also we can use our metamask account to know how to make transcation through that.
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/693e8191b2c5ea70e6d31cbc0b698786601be5a2/remix%20ide%20front.png)
+
 ![image alt]()
 
 In above Image , the file explore saves our contracts.
