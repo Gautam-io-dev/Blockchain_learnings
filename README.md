@@ -143,6 +143,13 @@ The metamask account is our wallet where it store the token , like sepolia fauce
 
 ![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/a3154de05ade31f63a71de967eadd061d02f5827/meta%20mask.png)
 
+# Sepolia Fucet
+
+These are the test token because we can;t efford the etherum coin , also for the learning purpose we use them , these faucet can be get from the Google Cloud.
+
+![image alt]()
+
+Here in the above Image you can see the Wallet Address where we have to add the our metmask wallet address then click on the recive button and when you refresh your metamask account you can see the faucets.
 
 # Solidity:
 
@@ -188,4 +195,4 @@ After Deploying we can see the green tick which show our contract is deployed on
 
 Running the code:-
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/617546cdd8558606ce769faba2856f5eed727624/RUNNING%20OF%20CODE.png)
