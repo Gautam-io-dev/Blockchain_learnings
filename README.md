@@ -175,7 +175,7 @@ Compiling the code:-
 
 Deploying on blockchain:-
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/08d92da5a64227baf8f18a5f9642f16bf82bd216/DEPLOY.png)
 After Deploying we can see the green tick which show our contract is deployed on the blockchain
 
 ![image alt]()
