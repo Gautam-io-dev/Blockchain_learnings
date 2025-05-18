@@ -147,7 +147,7 @@ The metamask account is our wallet where it store the token , like sepolia fauce
 
 These are the test token because we can;t efford the etherum coin , also for the learning purpose we use them , these faucet can be get from the Google Cloud.
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/ea6d9ca887d3dd93afcdaa3cb69e4ebd674cd3a1/google%20cloud.png)
 
 Here in the above Image you can see the Wallet Address where we have to add the our metmask wallet address then click on the recive button and when you refresh your metamask account you can see the faucets.
 
