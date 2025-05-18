@@ -141,4 +141,38 @@ To add video:-
 
 The metamask account is our wallet where it store the token , like sepolia faucet which are the test token , with the help of metamask wallet we will do the transaction and deploy our smart contract on the blockchain.
 
-![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/c7544baea6fbdec1ed83581c8d447c6bf1ef03bf/metamask.jpg)
+![image alt]()
+
+
+# Solidity:
+
+We write our smart contract in the solidity language .
+
+To use this Language I have used the Remix ide website where I can deploy my contract for free also we can use our metamask account to know how to make transcation through that.
+
+![image alt]()
+![image alt]()
+
+In above Image , the file explore saves our contracts.
+
+Now we write a basic solidity code and try to compile run and deploy it
+
+CODE:-
+
+![image alt]()
+
+Compiling the code:-
+
+![image alt]()
+![image alt]()
+
+Deploying on blockchain:-
+
+![image alt]()
+After Deploying we can see the green tick which show our contract is deployed on the blockchain
+
+![image alt]()
+
+Running the code:-
+
+![image alt]()
