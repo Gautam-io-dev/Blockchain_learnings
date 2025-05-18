@@ -157,11 +157,16 @@ To use this Language I have used the Remix ide website where I can deploy my con
 In above Image , the file explore saves our contracts.
 
 Here’s an intermediate-level Solidity smart contract for a crowdfunding platform, which introduces several important concepts:
-	•	Structs
-	•	Mappings
-	•	Modifier-based access control
-	•	Event logging
-	•	Withdrawal pattern
+	
+ •	Structs
+	
+ •	Mappings
+	
+ •	Modifier-based access control
+	
+ •	Event logging
+	
+ •	Withdrawal pattern
 
 
 CODE:-
@@ -175,10 +180,10 @@ Compiling the code:-
 
 Deploying on blockchain:-
 
-![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/08d92da5a64227baf8f18a5f9642f16bf82bd216/DEPLOY.png)
+![image alt]()
 After Deploying we can see the green tick which show our contract is deployed on the blockchain
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/08d92da5a64227baf8f18a5f9642f16bf82bd216/DEPLOY.png)
 
 Running the code:-
 
