@@ -139,4 +139,6 @@ To add video:-
     
 # METAMASK
 
+The metamask account is our wallet where it store the token , like sepolia faucet which are the test token , with the help of metamask wallet we will do the transaction and deploy our smart contract on the blockchain.
+
 ![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/c7544baea6fbdec1ed83581c8d447c6bf1ef03bf/metamask.jpg)
