@@ -201,7 +201,7 @@ Running the code:-
 
 **Question 1:Create a voting system with multiple candidates. Each address can vote only once.**
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/4d5515c61f57a72314564892d9e6a4ba50fa21d0/Question%201.png)
 ![image alt]()
 
 **Question 2:Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.**
