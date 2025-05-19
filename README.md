@@ -227,4 +227,4 @@ Running the code:-
 **Question 6:Create a contract that splits incoming Ether between 3 fixed addresses.**
 
 ![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/0300afe60fd0d7a1b2ac28a47306b9e0218bdacc/question%206.png)
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/77ab0c2e50f131ecd4bf637fa091e36f21d4f490/transc%206.png)
