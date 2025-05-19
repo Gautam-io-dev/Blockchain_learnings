@@ -206,7 +206,7 @@ Running the code:-
 
 **Question 2:Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.**
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/5e0f5a9303c11d920c0e4faf82cb5e06da62f044/Question%202.png)
 ![image alt]()
 
 **Question 3:Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).**
