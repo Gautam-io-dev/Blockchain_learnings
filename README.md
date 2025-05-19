@@ -221,7 +221,7 @@ Running the code:-
 
 **Question 5:Implement a simple auction system where users can place bids, and the highest bidder wins.**
 
-![image alt]()
+![image alt](https://github.com/Gautam-io-dev/Blockchain_learnings/blob/af171ae4f5286ed8e9c43a075a6f20fee1be2be5/question%205.png)
 ![image alt]()
 
 **Question 6:Create a contract that splits incoming Ether between 3 fixed addresses.**
